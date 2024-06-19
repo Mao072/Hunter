@@ -4,7 +4,7 @@ const path = require('path');
 const ghpages = require('gh-pages');
 const options = {
     branch: 'gh-pages',
-    repo: '<https://github.com/cottongrass0828/data_add_serial_number.git>' // project github repo
+    repo: 'https://github.com/Mao072/Hunter.git' // project github repo
 };
 const callback = err => {
     if (err) console.error(err);
